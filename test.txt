@@ -1,4 +1,2 @@
 first line
-another line
-yet another line
 after falty commit
