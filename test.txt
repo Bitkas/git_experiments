@@ -1,3 +1,4 @@
 first line
 after falty commit
 first branch first commit
+first branch second commit
